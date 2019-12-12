@@ -1,4 +1,4 @@
 # finalproject
 
 
-This is the link to Me and Clair's final CS330 project.
+This is the link to Me and Claire's final CS330 project.
